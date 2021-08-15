@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+}
+.container h1{
+  font-family: sans-serif;
+}
+
+body{
+  background-color: lightgreen;
+}
